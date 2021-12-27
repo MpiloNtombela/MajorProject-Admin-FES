@@ -4,7 +4,7 @@ Final year **ISTN**(Info Sys & Tech) Major Project (**[screenshots](https://gith
 
 A matric upgrade registration system
 
-An internal winform application used by admins, which it woks hand-in-hand with [this website project](https://github.com/MpiloNtombela/MajorProject)
+An internal winform application used by admins, which it woks hand-in-hand with [this website project](https://github.com/MpiloNtombela/MajorProject-Site)
 
 # Guidelines
 
