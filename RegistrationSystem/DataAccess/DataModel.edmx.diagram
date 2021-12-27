@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f5ef60e58b98456dac582ff8dfc04dd0" Name="Diagram1" ZoomLevel="66">
+        <EntityTypeShape EntityType="DataModel.Admin" Width="1.5" PointX="5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.AspNetRole" Width="1.5" PointX="0.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.AspNetUserClaim" Width="1.5" PointX="2.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.AspNetUserLogin" Width="1.5" PointX="7.625" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.AspNetUser" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.BankDetail" Width="1.5" PointX="10.375" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Guardian" Width="1.5" PointX="7.625" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Payment" Width="1.5" PointX="12.625" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.PaymentPlan" Width="1.5" PointX="7.375" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.RegisteredSubject" Width="1.5" PointX="12.5" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Registration" Width="1.5" PointX="10.375" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Student" Width="1.5" PointX="5.375" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Subject" Width="1.5" PointX="10" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.SupportingDocument" Width="1.5" PointX="12.625" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Teacher" Width="1.5" PointX="6.125" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.StudentDetail" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="DataModel.FK_Admin_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_Student_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_Teacher_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_BankDetails_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_Guardian_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_Payment_Registration" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_Registration_PaymentPlan" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_RegisteredSubject_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_RegisteredSubject_Subject" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_Registration_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_SupportingDocument_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK_Subject_Teacher" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.AspNetUserRoles" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DataModel.Notification" Width="1.5" PointX="5.25" PointY="13.375" />
+        <AssociationConnector Association="DataModel.FK_Notification_ToAspNetUsers" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

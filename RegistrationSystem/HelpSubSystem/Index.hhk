@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help">
+		<param name="Name" value="Baseline Help System">
+		<param name="Local" value="HelpIndex.html">
+		<param name="Name" value="Become a Student | Baseline Help System">
+		<param name="Local" value="RegisterToStudy.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="admin">
+		<param name="Name" value="Admin and Manager | Baseline Help System">
+		<param name="Local" value="AdminAndManager.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="manager">
+		<param name="Name" value="Admin and Manager | Baseline Help System">
+		<param name="Local" value="AdminAndManager.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="management">
+		<param name="Name" value="Admin and Manager | Baseline Help System">
+		<param name="Local" value="AdminAndManager.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="register">
+		<param name="Name" value="Become a Student | Baseline Help System">
+		<param name="Local" value="RegisterToStudy.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="student">
+		<param name="Name" value="Become a Student | Baseline Help System">
+		<param name="Local" value="RegisterToStudy.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="security">
+		<param name="Name" value="Baseline Help System">
+		<param name="Local" value="TwoFactorAuthentication.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="authentication">
+		<param name="Name" value="Baseline Help System">
+		<param name="Local" value="TwoFactorAuthentication.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

@@ -1,0 +1,24 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=BaselineHelpSubSystem.chm
+Contents file=Table of Contents.hhc
+Default Window=RegistrationHelp
+Default topic=AdminAndManager.html
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x1c09 English (South Africa)
+
+[WINDOWS]
+RegistrationHelp="Baseline Help System","Table of Contents.hhc","Index.hhk","HelpIndex.html","HelpIndex.html",,,,,0x22520,,0x3846,[0,0,1200,600],,,,,,,0
+
+
+[FILES]
+AdminAndManager.html
+CreateAccount.html
+HelpIndex.html
+RegisterToStudy.html
+TwoFactorAuthentication.html
+
+[INFOTYPES]
+
