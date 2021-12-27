@@ -17,7 +17,7 @@ An internal winform application used by admins, which it woks hand-in-hand with 
   
   (re)building the application will install required ASP packages from NuGet
 
-- For Database config refer to [this project](https://github.com/MpiloNtombela/MajorProject)
+- For Database config refer to [this project](https://github.com/MpiloNtombela/MajorProject-Site)
 
 - > Make sure you have [Adobe Reader](https://get.adobe.com/reader/) installed on the system this application uses components/controls from it to open pdf files: [see how](https://www.csharp-console-examples.com/general/pdf-reader-in-c-windows-form/)
 
@@ -41,4 +41,4 @@ An internal winform application used by admins, which it woks hand-in-hand with 
 
 
 
-**Checkout [sister project](https://github.com/MpiloNtombela/MajorProject)**
+**Checkout [sister project](https://github.com/MpiloNtombela/MajorProject-Site)**
